@@ -26,6 +26,8 @@ The issue was that the values should be including the goal ranges, not excluding
 =COUNTIFS(Kickstarter!D:D,">=25000",Kickstarter!D:D,"<=29999",Kickstarter!F:F,"successful",Kickstarter!R:R,"plays")
 ```
 
+Other than the problems mentioned previously, there were thankfully no major problems with the data analysis in general, and everything went accordingly well. Through comparing the obtained and expected outcomes, potential problems were suspected, analysed, clarified, and resolved. All that is left to do is to interpret the data, graphs and tables in order to present an in-depth conclusion that will answer questions for the client, Louise.
+
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
