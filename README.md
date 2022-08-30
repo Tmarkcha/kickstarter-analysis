@@ -78,6 +78,8 @@ Other than the problems mentioned previously, there were thankfully no major pro
 
 - What can you conclude about the Outcomes based on Goals?
 
+Based on previous fundraisers, their final status, and their financial goals, it is safe to say that the ideal fundraiser goal is less than $1,000, as this puts the success percentage to be 76%. With Louise’s proposed fundraiser goal of $10,000-$20,000 this would leave her fundraiser a 54% chance of succeeding, or a 46% chance of failing. These percentages are too close for comfort, and it would be advised that the proposed budget should be reduced to better the odds of succeeding.
+
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
