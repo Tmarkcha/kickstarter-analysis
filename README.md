@@ -14,6 +14,14 @@ One of the initial ways that the analysis was conducted was through comparing th
 
 The graph and table above serve as an example for the type of tables and charts used that aid in visualizing a trend that could benefit the decision-making process. The table on the left is known as a pivot table, a helpful tool that assists in calculating, summarizing, and analysing data that allows for data comparison, and pattern and trend recognition. Given that we are attempting to identify what the patterns/trends are for successful theatre play fundraisers, this tool is extremely important and beneficial. The graph to the right helps visualize the block of numbers in the table and allows for the numbers to make more sense to whoever is attempting to extract a conclusion from the data. The pivot chart, essentially, is the illustrated version of the pivot table.
 
+![Parent Category Outcomes-Table](https://user-images.githubusercontent.com/111096246/187531614-f7795ba6-8494-4342-a4e6-7ba0d3a1cb72.PNG)
+
+When compared to other categories of fundraisers, the number of successful theatre fundraisers are higher than any other category. With a total of 912 theatre fundraisers, 525 were successful, 349 were cancelled, 26 failed, and 12 were live at the time data was gathered and analysed. With these numbers in mind, the success rate of a theatre fundraiser would be 58%. This number may be a bit discouraging, as it lands close to a 50/50 success or fail. However, other fundraisers did not rely on in-depth analysis to start off.
+
+![Descriptive Statistics](https://user-images.githubusercontent.com/111096246/187531772-2f285d50-1238-4721-bd62-a69da7df1c61.PNG)
+
+When attempting to figure out what sets successful fundraisers from failed ones, it is important to also recognize whether the fundraiser goal itself was what could have caused the project to succeed or fail. In this case, we can see that the average goal for a fundraiser was approximately $5,000 and $10,500 for failed fundraisers. This proves to be problematic for Louise, as the proposed goal for the production, Fever, is like past failures. Furthermore, the average amount of money received/pledged is about a tenth of what a successful fundraiser brings in.
+
 ### Analysis of Outcomes Based on Launch Date
 
 What is the best time of the year 
