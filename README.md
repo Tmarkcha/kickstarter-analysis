@@ -22,6 +22,10 @@ When compared to other categories of fundraisers, the number of successful theat
 
 When attempting to figure out what sets successful fundraisers from failed ones, it is important to also recognize whether the fundraiser goal itself was what could have caused the project to succeed or fail. In this case, we can see that the average goal for a fundraiser was approximately $5,000 and $10,500 for failed fundraisers. This proves to be problematic for Louise, as the proposed goal for the production, Fever, is like past failures. Furthermore, the average amount of money received/pledged is about a tenth of what a successful fundraiser brings in.
 
+![GB-Musicals Box-Plot](https://user-images.githubusercontent.com/111096246/187532681-bf2746f3-84b1-4abb-a663-c814b78e0560.PNG)
+
+Louise has also expressed interest in the theatre market in Great Britain, especially musicals. Louise's proposed budget for her future project is around £4,000. Thankfully, there are British musicals ready for analysis that could help paint a picture for what to expect in Great Britain. With the box and whisker plot below, one can notice several things. The mean campaign goal is around £4,000, which is beyond the range of outliers for the amount pledged, so it would be recommended that the musical be produced for less than proposed. Moreover, half of the musicals had a goal of £2,000 or less, which just lies over the 3rd quartile for amounts pledged.
+
 ### Analysis of Outcomes Based on Launch Date
 
 What is the best time of the year 
@@ -31,6 +35,10 @@ What is the best time of the year
 There was a grand total of 900 theatre fundraisers from 2009 to 2017. Throughout the months of the calendar year there was one month which showed a larger number of theatre fundraisers becoming successful. This month is May, with 65 fundraisers becoming successful of a total of 96 proposed fundraisers (68% success rate). It is therefore recommended that the fundraising start in May. The fundraiser could allow for unexpected delays and start in June, as it is the month with the second most number of theatre fundraisers in the US.
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111096246/187532789-63ec50ee-9d54-4c57-93a7-a35f50b1ce26.png)
+
+
 
 ### Challenges and Difficulties Encountered
 
