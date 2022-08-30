@@ -28,11 +28,14 @@ Louise has also expressed interest in the theatre market in Great Britain, espec
 
 ### Analysis of Outcomes Based on Launch Date
 
-What is the best time of the year 
+There are many questions that need answering when planning a significant fundraiser such as this one. First one that comes to mind is: Does the time of year when the fundraising start affect the potential success? Please refer to the visual aid below to find out.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111096246/187095012-6d7f7fa4-5cce-4ffa-b36c-6ec2b2a235cd.png)
 
 There was a grand total of 900 theatre fundraisers from 2009 to 2017. Throughout the months of the calendar year there was one month which showed a larger number of theatre fundraisers becoming successful. This month is May, with 65 fundraisers becoming successful of a total of 96 proposed fundraisers (68% success rate). It is therefore recommended that the fundraising start in May. The fundraiser could allow for unexpected delays and start in June, as it is the month with the second most number of theatre fundraisers in the US.
+
+![Theatre Outcomes Vs Launch Date Table](https://user-images.githubusercontent.com/111096246/187534215-3e72aa41-a0af-4e4f-9e7b-5026fb191766.PNG)
+
 
 ### Analysis of Outcomes Based on Goals
 
