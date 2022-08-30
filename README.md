@@ -24,7 +24,7 @@ When attempting to figure out what sets successful fundraisers from failed ones,
 
 ![GB-Musicals Box-Plot](https://user-images.githubusercontent.com/111096246/187532681-bf2746f3-84b1-4abb-a663-c814b78e0560.PNG)
 
-Louise has also expressed interest in the theatre market in Great Britain, especially musicals. Louise's proposed budget for her future project is around £4,000. Thankfully, there are British musicals ready for analysis that could help paint a picture for what to expect in Great Britain. With the box and whisker plot below, one can notice several things. The mean campaign goal is around £4,000, which is beyond the range of outliers for the amount pledged, so it would be recommended that the musical be produced for less than proposed. Moreover, half of the musicals had a goal of £2,000 or less, which just lies over the 3rd quartile for amounts pledged.
+Louise has also expressed interest in the theatre market in Great Britain, especially musicals. Louise's proposed budget for her future project is around £4,000. Thankfully, there are British musicals ready for analysis that could help paint a picture for what to expect in Great Britain. With the box and whisker plot above, one can notice several things. The mean campaign goal is around £4,000, which is beyond the range of outliers for the amount pledged, so it would be recommended that the musical be produced for less than proposed. Moreover, half of the musicals had a goal of £2,000 or less, which just lies over the 3rd quartile for amounts pledged.
 
 ### Analysis of Outcomes Based on Launch Date
 
