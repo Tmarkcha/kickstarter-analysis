@@ -36,11 +36,17 @@ There was a grand total of 900 theatre fundraisers from 2009 to 2017. Throughout
 
 ![Theatre Outcomes Vs Launch Date Table](https://user-images.githubusercontent.com/111096246/187534215-3e72aa41-a0af-4e4f-9e7b-5026fb191766.PNG)
 
+In conclusion, the month of May, as stated previously, is the optimal month to begin the fundraiser campaign, but that's not to say it is the only month wher Louise can look to start her campaign. The months of June and July also offer a glimmer of opportunity for further campaigning, but it must be noted that the odds of a successful campaign dwindle as time passes on. Anytime before May is out of the question, and anytime after July should also be ruled out.
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111096246/187532789-63ec50ee-9d54-4c57-93a7-a35f50b1ce26.png)
 
+As observed in the graph above visualizing the relationship of the percentage of a fundraiser’s success, failure, or cancellation to the dollar amount of the fundraiser’s goal, the less the fundraiser requested in terms of its goal, the better the odds of obtaining a successful status. At a goal of less than $1,000 the percentage of successful campaigns is at its highest at 76%, and the percentage of failed campaigns is aits lowest at 24%. This percentage dips a little to 73% with a goal from $1,000 to $4,999. The only other “acceptable” goal range would be from $35,000 to $39,999 and $40,000 to $44,999 where the percentage of success is 67% for both ranges. This is not ideal, as the odds of having a failed campaign are higher than before at 33%.
+
+![Outcomes Based on Goal Table](https://user-images.githubusercontent.com/111096246/187541364-9d370c99-065b-400f-86b5-8f688a29dc4e.PNG)
+
+Louise’s proposed goal of $10,000-$12,000 puts her percentage of a successful campaign at 54%, and that is eerily close to failing her fundraiser with the percentage of failed campaigns being calculated at 45% - Almost double than the ideal goal of less than $1,000. It would be up to Louise’s discretion if by asking for ten times the recommended amount, she would be comfortable with doubling her potential odds of failing.
 
 
 ### Challenges and Difficulties Encountered
