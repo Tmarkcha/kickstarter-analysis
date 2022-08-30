@@ -63,6 +63,13 @@ The issue was that the values should be including the goal ranges, not excluding
 =COUNTIFS(Kickstarter!D:D,">=25000",Kickstarter!D:D,"<=29999",Kickstarter!F:F,"successful",Kickstarter!R:R,"plays")
 ```
 
+Another problem that was resolved was the fact that the dates in which the fundraisers were created and ended were provided as Unix timestamps. Unfortunately, these numbers do not provide a clear date, and thus require further calculations to translate from Unix to a recognizable date format. First, what is a Unix timestamp? It is a way to track time in seconds from the start of the Unix epoch on the 1st of January 1970. In other words, a Unix timestamp is the number of seconds that have passed since a particular date and the Unix epoch. The following sample code is the function used to translate from Unix to a standard date format.
+```
+=(((J522/60)/60)/24)+DATE(1970,1,1)
+```
+
+Where the first division of 60 converts the seconds to minutes. The second division of 60 converts the minutes to hours. Additionally, the division of 24 converts the hours to days. Lastly, the addition of “DATE(1970,1,1)” refers to the Unix epoch mentioned previously. 
+
 Other than the problems mentioned previously, there were thankfully no major problems with the data analysis in general, and everything went accordingly well. Through comparing the obtained and expected outcomes, potential problems were suspected, analysed, clarified, and resolved. All that is left to do is to interpret the data, graphs and tables in order to present an in-depth conclusion that will answer questions for the client, Louise.
 
 ## Results
