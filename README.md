@@ -90,4 +90,16 @@ Based on previous fundraisers, their final status, and their financial goals, it
 
 - What are some limitations of this dataset?
 
+The inclusion of outliers heavily hinders the ability to do further analysis, as any attempt to perform descriptive analysis is skewed and does not truly reflect the average, for example, goal or amount pledged.
+
+Furthermore, it would be beneficial for the dataset to include in what way were the campaigns advertised. With this information, one could easily compare how different forms of media stack up to one another. Could newspaper ads be more successful than radio ads? Or how would different social medias stack up to one another?
+
+With social media in mind, the dataset is limited by the lack of demographic information. Knowing which age groups pledge more money than others would allow for a more focused, and targeted campaign. There’s no point to advertise to teenagers if the average donor is in their 30s.
+
+Another limitation would be the lack of a genre column. Having a genre dataset would allow for further, and more specified analysis. This could also pave the way to figuring out what people want to see in the theatre. Would the donors rather see a comedy, or a sci-fi rom com? Having that information could help answer that question.
+
+Lastly, having zip/postal codes would allow one to geographically visualize how donations compare to distance away from the proposed venue. If we know that the average donation is approximately $100 within a 20Km radius of the venue, and with the average amount dwindling as the radius increases, then one can focus on prospective patrons within that 20Km radius.
+
+To sum it all together, by knowing what platform is the most successful at receiving pledges, to also knowing what age group is more likely to donate, and what genre increases popularity one can engineer an incredibly specific ad campaign that checks all the boxes. 
+
 - What are some other possible tables and/or graphs that we could create?
