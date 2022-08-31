@@ -103,6 +103,7 @@ Lastly, having zip/postal codes would allow one to geographically visualize how 
 To sum it all together, by knowing what platform is the most successful at receiving pledges, to also knowing what age group is more likely to donate, and what genre increases popularity one can engineer an incredibly specific ad campaign that checks all the boxes. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 By having access to information that is not currently available in the dataset (ad campaign platform, average donor age, theatre play genre, proximity to venue, etc.) one could create a graph that pits different social medias together (Facebook Vs. TikTok Vs. Twitter) and then also compare them to the more “traditional” methods such as the radio, newspaper, or flyers. One could also even find out which campaign platform is more cost efficient by comparing the number of clicks/donations to invested cost.
 
 It would be beneficial to have a table/graph that can convey which genre is more popular and for which age group. What could also make this even better would be to have a survey done for different demographic groups to rate what genre they would rather see at a play. It may be possible that during the analysis it comes to light that two different groups overlap in a common preferred genre, which then makes it easier and more likely to start funding a successful campaign.
