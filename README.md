@@ -76,6 +76,14 @@ Other than the problems mentioned previously, there were thankfully no major pro
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+The first conclusion, as mentioned previously, is that May is the optimal month for the fundraiser to begin. This is affirmed by the 65 successful campaigns out of a grand total of 96 campaigns initiated in the month of May. These numbers show that there is a 67.7% chance of a successful campaign, a 30.2% chance of failure, and a 2.1% chance of being cancelled.
+
+One might wonder why May produces more successful campaigns and there can be a variety of reasons. One of those potential reasons is the fact that spring has just started, and with winter out of the way, people are looking to go out and enjoy themselves. Additionally, with the following months, namely June through to August, people start heading out on holidays and attending other summer events which might be higher on the list for potential patrons.
+
+The second conclusion would be which month is the least favourable for a fundraiser to start. This month would be December, where the odds of generating a successful campaign is just as likely as the campaign failing. This can be noted by noting that there are just as many successful campaigns as there are failed, with there being 27 campaigns each.
+
+This can be due to seasonal factors as well, with December being in winter, and people not wanting to go out and stay in the comfort of their home. In addition, December is a time for family and friends where people are getting presents, going on vacation, or supporting charitable organizations, and are not thinking of the theatre.  
+
 - What can you conclude about the Outcomes based on Goals?
 
 Based on previous fundraisers, their final status, and their financial goals, it is safe to say that the ideal fundraiser goal is less than $1,000, as this puts the success percentage to be 76%. With Louise’s proposed fundraiser goal of $10,000-$20,000 this would leave her fundraiser a 54% chance of succeeding, or a 46% chance of failing. These percentages are too close for comfort, and it would be advised that the proposed budget should be reduced to better the odds of succeeding.
